@@ -33,29 +33,11 @@
 ***REMOVED***
 
 ## Contact
-<script type="text/javascript"***REMOVED***
-  var submitted=false;
-  function set_submitted() {
-    submitted=true;
+<dl***REMOVED***<dt***REMOVED***For inquiries about Kyudo (English, Japanese)</dt***REMOVED***</dl***REMOVED***
 ***REMOVED***
-</script***REMOVED***
-<style***REMOVED***
-  .formelement {
-    width: 100%
+
+<dl***REMOVED***<dt***REMOVED***For inquiries about logistics such as times, location, fees (English)</dt***REMOVED***</dl***REMOVED***
 ***REMOVED***
-</style***REMOVED***
-<iframe name="hidden_iframe" id="hidden_iframe" style="display:none;" onload="if(submitted) {window.location='index.html#contact';}"***REMOVED***</iframe***REMOVED***
 
-<form action="https://docs.google.com/forms/d/e/1FAIpQLSd4XnLMg5gYLJyMsZnfFdeZQ7tX5D3xNdvwMEK94eeVziKHKw/formResponse" method="post" target="hidden_iframe" onsubmit="set_submitted"***REMOVED***
-
-  <h3***REMOVED***Name</h3***REMOVED***
-  <input class="formelement" type="text" name="entry.26923459" required***REMOVED***
-  
-  <h3***REMOVED***Email Address</h3***REMOVED***
-  <input class="formelement" type="email" name="entry.969815028" required***REMOVED***
-    
-  <h3***REMOVED***Message</h3***REMOVED***
-  <textarea class="formelement" rows="5" name="entry.1785211528" required***REMOVED***</textarea***REMOVED***
-
-  <button type="submit"***REMOVED***Send</button***REMOVED***
-</form***REMOVED***
+<dl***REMOVED***<dt***REMOVED***For non-urgent inquiries please email us at</dt***REMOVED***</dl***REMOVED***
+***REMOVED***

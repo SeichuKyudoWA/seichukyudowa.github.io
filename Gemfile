@@ -22,6 +22,7 @@ group :jekyll_plugins do
   gem "jekyll-feed", "~***REMOVED*** 0.6"
 end
 
+
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 # and associated library.
 platforms :mingw, :x64_mingw, :mswin, :jruby do
@@ -35,6 +36,5 @@ gem "wdm", "~***REMOVED*** 0.1.0", :platforms =***REMOVED*** [:mingw, :x64_mingw
 # kramdown v2 ships without the gfm parser by default. If you're using
 # kramdown v1, comment out this line.
 gem "kramdown-parser-gfm"
-
 
 gem "webrick", "~***REMOVED*** 1.8"
