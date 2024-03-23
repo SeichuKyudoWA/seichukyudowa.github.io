@@ -18,9 +18,11 @@
 
 ***REMOVED***
 
-Traditionally, beginners in Kyudo progress in the following way:
+***REMOVED***
 
 <dl***REMOVED***<dt***REMOVED***Step 1) Toshu (徒手) training</dt***REMOVED***</dl***REMOVED***
+***REMOVED***
+***REMOVED***
 <dl***REMOVED***<dt***REMOVED***Step 2) Training with the gomu yumi (ゴム弓)</dt***REMOVED***</dl***REMOVED***
 <dl***REMOVED***<dt***REMOVED***Step 3) Subiki (素引き) training</dt***REMOVED***</dl***REMOVED***
 <dl***REMOVED***<dt***REMOVED***Step 4) Matomae (的前)</dt***REMOVED***</dl***REMOVED***
