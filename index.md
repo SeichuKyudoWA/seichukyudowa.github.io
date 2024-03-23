@@ -6,7 +6,21 @@
 
 ***REMOVED***
 
-## Schedule
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED*** -- <cite***REMOVED***[The Constitution of the International Kyudo Federation](https://www.ikyf.org/pdf/constitution_201506.pdf), Chapter 2, Article 6</cite***REMOVED***
+
+***REMOVED***
+
+## Progression Timeline
+
+***REMOVED***
+
+***REMOVED***
 <style***REMOVED***
 ***REMOVED***
 ***REMOVED***
@@ -32,7 +46,7 @@
 
 ***REMOVED***
 
-## Contact
+***REMOVED***
 <dl***REMOVED***<dt***REMOVED***For inquiries about Kyudo (English, Japanese)</dt***REMOVED***</dl***REMOVED***
 ***REMOVED***
 
