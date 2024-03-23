@@ -18,6 +18,8 @@
 
 ## Progression Timeline
 
+
+
 ***REMOVED***
 
 ***REMOVED***
@@ -47,7 +49,7 @@
 ***REMOVED***
 
 ***REMOVED***
-<dl***REMOVED***<dt***REMOVED***For inquiries about Kyudo (English, Japanese)</dt***REMOVED***</dl***REMOVED***
+<dl***REMOVED***<dt***REMOVED***For inquiries about Kyudo and our training (English, Japanese)</dt***REMOVED***</dl***REMOVED***
 ***REMOVED***
 
 <dl***REMOVED***<dt***REMOVED***For inquiries about logistics such as times, location, fees (English)</dt***REMOVED***</dl***REMOVED***
