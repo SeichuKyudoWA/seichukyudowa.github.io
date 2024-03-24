@@ -10,4 +10,5 @@ layout: default
 -->
 {% include about.md %}
 {% include contact.md %}
+{% include links.md %}
 
