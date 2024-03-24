@@ -8,5 +8,6 @@ layout: default
 {% include logistics.md %}
 {% include calendar.md %}
 -->
+{% include about.md %}
 {% include contact.md %}
 
