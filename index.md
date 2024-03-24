@@ -31,6 +31,17 @@ Traditionally, beginners in Kyudo progress through the following steps. The guid
 
 While it may seem like a linear progression, in reality you will revisit every single one of these steps multiple times in your journey through Kyudo. At the Seichu Kyudo Club, we will have you bounce between steps 1 and 2, then steps 1 and 3, before we have you progress to step 4.
 
+## Logistics
+<dl>
+<dt></dt>
+<dd></dd>
+<dt>Date/Time</dt>
+<dd>First lesson is planned to be on the first week of May.</dd>
+<dt>Location</dt>
+<dd>Crossroads Community Center</dd>
+<dt>Cost</dt>
+<dd>$10~15 / hour (depending on the number of people)</dd>
+</dl>
 
 ## Calendar
 <style>
