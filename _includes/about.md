@@ -1,5 +1,5 @@
 ## About Us
-We are a Kyudo club based in the Seattle metro area. We offer lessons in Kyudo, which is a traditional form of Japanese Archery. We practice in the Bellevue area 2-4 hours every weekend.
+We are a Kyudo club based in the Seattle metro area. We offer lessons in Kyudo, a traditional form of Japanese Archery. We practice in the Bellevue area 2-4 hours every weekend.
 
 **We are currently taking new students ages 18 and above through June 30, 2024.**
 
