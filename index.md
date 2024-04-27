@@ -12,4 +12,5 @@ layout: default
 {% include calendar.md %}
 {% include contact.md %}
 {% include links.md %}
+{% include socials.md %}
 
