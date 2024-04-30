@@ -10,6 +10,7 @@ layout: default
 {% include about.md %}
 {% include costs.md %}
 {% include calendar.md %}
+{% include events.md %}
 {% include contact.md %}
 {% include socials.md %}
 {% include links.md %}
