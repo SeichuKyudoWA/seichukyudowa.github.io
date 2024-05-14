@@ -117,7 +117,7 @@ GEM
       coffee-script (~> 2.2)
       coffee-script-source (~> 1.12)
     jekyll-commonmark (1.4.0)
-      commonmarker (~> 0.23.4)
+      commonmarker (~> 0.22)
     jekyll-commonmark-ghpages (0.4.0)
       commonmarker (~> 0.23.7)
       jekyll (~> 3.9.0)
@@ -266,6 +266,7 @@ PLATFORMS
 DEPENDENCIES
   github-pages (~> 231)
   jekyll-feed (~> 0.6)
+  jekyll-seo-tag
   kramdown-parser-gfm
   minima (~> 2.0)
   tzinfo (~> 1.2)
