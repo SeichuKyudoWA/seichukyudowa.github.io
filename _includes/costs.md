@@ -1,6 +1,6 @@
 ## Costs
 We take payments through cash and [Zelle](zellepay.com). Please send to our email when using zelle.
 
-- Each Class: $10 / hour
+- Class Fee: $20 for 2 hour class, $30 for 3 hour class
 - Membership: $100 / year
 - Bow Rental: $100 / year
