@@ -11,6 +11,4 @@ layout: default
 {% include costs.md %}
 {% include calendar.md %}
 {% include contact.md %}
-{% include socials.md %}
-{% include links.md %}
 
