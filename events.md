@@ -11,3 +11,5 @@ Here are some upcoming events.
 - Northfield, Minnesota
    - Dates: 8/5 - 8/7
    - Seminar and Shinsa
+   - [Shinsa Information]({{ site.url }}/documents/2024_Special_Overseas_Provisional_Chuo_Shinsa.pdf)
+   - [Friendship Kyudo Taikai]({{ site.url }}/documents/The_1s_Japan-Americas_Friendship_Kyudo_Taikai.pdf)
