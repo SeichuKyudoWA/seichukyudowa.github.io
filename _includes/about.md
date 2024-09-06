@@ -5,3 +5,5 @@ We offer lessons in Kyudo, a traditional form of Japanese Archery. All lessons a
 
 **Next viewing dates will start in January 2025. Please give us a call or email us for more details.**
 
+SeiChu Kyudo Club is recognized 501(c)(3) Public Charity and a 509(a) charity private foundation. All gifts, transfers, bequests generously given to SeiChu Kyudo Club are tax deductible on Federal taxes. Thank you for your generous support. (IRS Document Locator Number (DLN)  26053503005714)
+
