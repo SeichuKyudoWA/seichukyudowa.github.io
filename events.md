@@ -1,6 +1,12 @@
 ## Events
 Here are some upcoming events.
 
+<dl><dt>August 2025</dt></dl>
+- Northfield, Minnesota
+   - Dates: 8/5 - 8/7
+   - Seminar and Shinsa
+
+## Past Events
 <dl><dt>November 2024</dt></dl>
 - San Francisco, California
    - Dates: 11/14 - 11/17
@@ -10,7 +16,3 @@ Here are some upcoming events.
    - [Shinsa Information]({{ site.url }}/documents/2024_Special_Overseas_Provisional_Chuo_Shinsa.pdf)
    - [Friendship Kyudo Taikai PDF]({{ site.url }}/documents/The_1s_Japan-Americas_Friendship_Kyudo_Taikai.pdf)
 
-<dl><dt>August 2025</dt></dl>
-- Northfield, Minnesota
-   - Dates: 8/5 - 8/7
-   - Seminar and Shinsa
