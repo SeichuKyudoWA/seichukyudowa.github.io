@@ -1,0 +1,15 @@
+docs_list_title: Navigation Tabs
+docs:
+
+- title: Home
+  url: index.html
+
+- title: Blog
+  url: blog.html
+
+- title: Upcoming Events 
+  url: events.html
+
+- title: Socials & Links
+  url: links.html
+
