@@ -12,16 +12,13 @@
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
   </head>
   <body>
-    {% include header.html %}
+    {% include components/header.html %}
 
     <main id="content" class="main-content" role="main">
       {{ content }}
 
-      <footer class="site-footer">
-        <span class="site-footer-credits">This site is maintained by the Seichu Kyudo Club.</span>
-        <br>
-        <span class="site-footer-credits">Copyright &copy; 2024 Seichu Kyudo Club</span>
-      </footer>
+      {% include components/footer.html %}
+
     </main>
   </body>
 </html> 
