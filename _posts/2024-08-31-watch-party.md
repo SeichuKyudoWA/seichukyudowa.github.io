@@ -1,3 +1,6 @@
+---
+---
+
 # August 31, 2024: Kyudo Video Watch Party Notes
 
 ## [Empress' Cup](https://www.youtube.com/watch?v=kZo0GR2Z5Mw)

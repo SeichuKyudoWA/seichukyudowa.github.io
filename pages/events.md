@@ -1,3 +1,7 @@
+---
+permalink: /events
+---
+
 ## Events
 Here are some upcoming events.
 
