@@ -1,7 +1,7 @@
 ---
 permalink: /home
 ---
-{% include home_content/about.md %}
-{% include home_content/costs.md %}
-{% include home_content/calendar.md %}
-{% include home_content/contact.md %} 
+{% include home/about.md %}
+{% include home/costs.md %}
+{% include home/calendar.md %}
+{% include home/contact.md %} 
