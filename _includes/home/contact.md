@@ -1,7 +1,7 @@
 ## Contact Us
 Please feel free to contact us for more information.
 
-<dl><dt>Email<dl><dt>
+<dl><dt>Email</dt></dl>
 - seichukyudowa@gmail.com
 
 <dl><dt>Phone</dt></dl>
