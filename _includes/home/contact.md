@@ -1,8 +1,10 @@
 ## Contact Us
 Please feel free to contact us for more information.
 
-<dl><dt>For class and training information (English or Japanese)</dt></dl>
-- Yuta Nakamura: (509)-720-7485
+<dl><dt>Email<dl><dt>
+- seichukyudowa@gmail.com
 
-<dl><dt>For locations, times, and costs (English)</dt></dl>
-- Dean Hoshizaki: (206)-547-4883
+<dl><dt>Phone</dt></dl>
+- President Yuta Nakamura: (509)-720-7485 (English or Japanese)
+- Vice President Dean Hoshizaki: (206)-547-4883 (English)
+
