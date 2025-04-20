@@ -14,12 +14,12 @@
           dates: 4/18 - 4/21, Easter weekend 4 days
           cost: About $300 CAD (approx. $225 USD), plus lodging and food.
 
-    - month: May
-      events:
-        - title: Fire Mountain All Day Shooting
-          location: Fire Mountain, Washington
-          dates: Early May, details TBD
-          cost: $30 / person which includes early lunch, second lunch, with snack and drinks.
+      #- month: May
+          #  events:
+          #    - title: Fire Mountain All Day Shooting
+          #      location: Fire Mountain, Washington
+          #      dates: Early May, details TBD
+          #      cost: $30 / person which includes early lunch, second lunch, with snack and drinks.
 
     - month: June
       events:
