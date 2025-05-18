@@ -1,4 +1,19 @@
 - year: 2025
+  months:
+    - month: April
+      events:
+        - title: The 10th Asia-Oceania Kyudo Seminar
+          location: Nagoya, Aichi, Japan
+          dates: 4/6 - 4/8
+          cost: 30,000 yen for seminar plus shinsa fee, plus lodging, transportation, food is separate.
+          other_information:
+            - text: Application deadline is February 3, 2025.
+
+        - title: Vancouver Seminar with Aaron Blackwell Sensei
+          location: Vancouver, Canada
+          dates: 4/18 - 4/21, Easter weekend 4 days
+          cost: About $300 CAD (approx. $225 USD), plus lodging and food.
+
 - year: 2024
   months: 
     - month: November

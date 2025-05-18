@@ -1,19 +1,5 @@
 - year: 2025
   months:
-    - month: April
-      events:
-        - title: The 10th Asia-Oceania Kyudo Seminar
-          location: Nagoya, Aichi, Japan
-          dates: 4/6 - 4/8
-          cost: 30,000 yen for seminar plus shinsa fee, plus lodging, transportation, food is separate.
-          other_information:
-            - text: Application deadline is February 3, 2025.
-
-        - title: Vancouver Seminar with Aaron Blackwell Sensei
-          location: Vancouver, Canada
-          dates: 4/18 - 4/21, Easter weekend 4 days
-          cost: About $300 CAD (approx. $225 USD), plus lodging and food.
-
     - month: June
       events:
         - title: Summer Solstice 100 Shots
@@ -31,10 +17,3 @@
           cost: Estimated $700 for seminar, plus lodging, food, and travel
           other_information:
             - text: Details such as cost and dates are still TBD.
-            
-    - month: September
-      events:
-        - title: Fire Mountain All Day Shooting
-          location: Fire Mountain, Washington
-          dates: Early May, details TBD
-          cost: $30 / person which includes early lunch, second lunch, with snack and drinks.
