@@ -15,7 +15,7 @@
           cost: About $300 CAD (approx. $225 USD), plus lodging and food.
 
 - year: 2024
-  months: 
+  months:
     - month: November
       events:
         - title: Friendship Taikai & Shinsa
@@ -28,4 +28,4 @@
             - text: Shinsa Information
               document: /documents/2024_Special_Overseas_Provisional_Chuo_Shinsa.pdf
             - text: Friendship Kyudo Taikai PDF
-              link: ({{ site.url }}/documents/The_1s_Japan-Americas_Friendship_Kyudo_Taikai.pdf)
+              document: /documents/The_1st_Japan-Americas_Friendship_Kyudo_Taikai.pdf
