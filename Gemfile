@@ -40,3 +40,6 @@ gem "kramdown-parser-gfm"
 gem "webrick", "~> 1.8"
 
 gem "jekyll-seo-tag"
+
+# jekyll serve breaks without this, but is not included by default.
+gem "csv"

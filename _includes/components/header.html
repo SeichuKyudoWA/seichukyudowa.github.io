@@ -1,11 +1,57 @@
+<style type="text/css" media="screen">
+  .club-photo-bg {
+    background-image: url("/assets/images/250601_anniversary.jpg");
+    background-repeat: no-repeat;
+
+    height: 600px;
+    background-position: center;
+    background-size: cover;
+
+
+    display: grid;
+  }
+
+  .page-header {
+    padding: 0px 0px 20px 0px;
+  }
+
+  .black-text-border {
+    text-shadow: 3px 3px black;
+  }
+
+  .anchor-middle {
+    align-self: center;
+  }
+
+  .anchor-bottom {
+    align-self: end;
+  }
+
+  /* 
+  .anchor-bottom>.btn {
+    color: white;
+    font-weight: bold;
+    border-color: black;
+    background-color: #c9dbcb71;
+  } */
+</style>
+
 <header class="page-header" role="banner">
-    <h1 class="project-name">
+  <div class="black-text-border club-photo-bg">
+    <div class="anchor-middle">
+      <h1 class="project-name">
         {{ site.title | default: site.github.repository_name }}
-    </h1>
-    <h2 class="project-tagline">
+      </h1>
+      <h2 class="project-tagline">
         {{ site.description | default: site.github.project_tagline }}
-    </h2>
-    {% for tab in site.data.navigationlist.docs %}
-        <a href="{{ tab.url }}" class="btn"> {{ tab.title }} </a>
-    {% endfor %}
+      </h2>
+      <br />
+      <br />
+      <br />
+    </div>
+  </div>
+  <br />
+  {% for tab in site.data.navigationlist.docs %}
+  <a href="{{ tab.url }}" class="btn"> {{ tab.title }} </a>
+  {% endfor %}
 </header>
