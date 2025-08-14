@@ -8,3 +8,15 @@
           cost: Estimated $700 for seminar, plus lodging, food, and travel
           other_information:
             - text: Details such as cost and dates are still TBD.
+
+    - month: September
+      events:
+        - title: "End of Summer Fire Mountain: All Day Shooting"
+          location: "26027 Walker Valley Rd. Mount Vernon, WA, 98274, Fire Mountain Scout Camp"
+          dates: Sunday, September 21st
+          cost: Rental fee and food $40
+          other_information:
+            - text: Shooting from 9AM to 6PM. Please arrive early to help set up.
+            - text: We will have lunch, dinner, snacks, and drinks.
+            - text: Shooting is 28 meters. We will also have a 60 meter range.
+            - text: Bring water bottles and sunscreen. Plan on a full day!
