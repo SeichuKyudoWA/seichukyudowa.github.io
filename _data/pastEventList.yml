@@ -1,5 +1,14 @@
 - year: 2025
   months:
+    - month: August
+      events:
+        - title: American Kyudo Renmei Seminar-Shinsa
+          location: Minnesota
+          dates: Early August 3-4 days, details TBD
+          cost: Estimated $700 for seminar, plus lodging, food, and travel
+          other_information:
+            - text: Details such as cost and dates are still TBD.
+
     - month: June
       events:
         - title: Summer Solstice 100 Shots

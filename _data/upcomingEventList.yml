@@ -1,14 +1,5 @@
 - year: 2025
   months:
-    - month: August
-      events:
-        - title: American Kyudo Renmei Seminar-Shinsa
-          location: Minnesota
-          dates: Early August 3-4 days, details TBD
-          cost: Estimated $700 for seminar, plus lodging, food, and travel
-          other_information:
-            - text: Details such as cost and dates are still TBD.
-
     - month: September
       events:
         - title: "End of Summer Fire Mountain: All Day Shooting"
@@ -20,3 +11,33 @@
             - text: We will have lunch, dinner, snacks, and drinks.
             - text: Shooting is 28 meters. We will also have a 60 meter range.
             - text: Bring water bottles and sunscreen. Plan on a full day!
+
+- year: 2026
+  months:
+    - month: April
+      events:
+        - title: Annual 4-day Seminar hosted by the Vancouver Kyudo Club
+          location: Chinatown Vancouver BC, Canada
+          dates: Usually the weekend before/after Easter, exact date updated when available.
+          cost: ~$250 USD seminar fee/person. Lodging and food are separate, which we coordinate and share.
+          other_information:
+            - text: Will feature Kyudo Renmei instructors from South Carolina
+
+    - month: June/July
+      events:
+        - title: Annual Summer Solstice 100 Shots
+          location: Lopez Island, WA
+          dates: Exact date updated when available.
+          cost: $80-$100 /person for food and drinks. Ferry tickets separate.
+          other_information:
+            - text: Lasts Friday-Sunday. Bring a sleeping bag!
+
+    - month: September
+      events:
+        - title: Annual End-of-Summer All Day Shooting at Camp Fire Mountain
+          location: 26027 Walker Valley Rd. Mount Vernon, WA, 98274, Fire Mountain Scout Camp
+          dates: After Labor Day, exact date updated when available.
+          cost: $40-$50 for rental fee & food/drink costs
+          other_information:
+            - text: 9am-6pm duration, we will have lunch, dinner, snacks, and drinks.
+            - text: Shooting is 28 meters. We will also have a 60 meter range.

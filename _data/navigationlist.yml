@@ -1,15 +1,16 @@
 docs_list_title: Navigation Tabs
 docs:
+  - title: Home
+    url: /home
 
-- title: Home
-  url: /home
+  - title: About Us
+    url: /about
 
-- title: Blog
-  url: /blog
+  - title: Blog
+    url: /blog
 
-- title: Upcoming Events 
-  url: /events
+  - title: Upcoming Events
+    url: /events
 
-- title: Socials & Links
-  url: /links
-
+  - title: Socials & Links
+    url: /links
