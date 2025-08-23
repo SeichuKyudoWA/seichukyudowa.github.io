@@ -1,6 +1,7 @@
 ## Our Training
 
-- We meet at the Bellevue Highland Community Center Gym every Sunday morning, where we shoot at the regulation full distance of 28 meters. Parking is plentiful and free. You and your car are safe in this low crime area.
+- We shoot 28 meters regulation full distance every Sunday morning.
+- We regularly meet at the Bellevue Highland Community Center Gym. Parking is free.
 - Classes include formal movement and shooting form. A typical class includes 1 hour group instruction and individual coaching on movement, standing, walking, sitting, bowing while handling the bow and arrows and 1 hour of group shooting practice with individual coaching. The 3rd hour is free practice with instructors assisting individuals’ particular needs.
-- We provide beginners with bows. We assist members in selecting and purchasing, shipping, their own arrows, shooting glove, uniform and the various accessories need for Kyudo. All from our supplier in Japan.
+- We provide beginners bows. We assist members in selecting and purchasing, shipping, their own arrows, shooting glove, uniform and the various accessories need for Kyudo from Japan.
 - We host 3 annual events. Spring starts with a 4-day seminar in Vancouver B.C. Canada with the SCKR (South Carolina Kyudo Renmei) instructors. Summer solstice event is a long weekend on Lopez Island. Summer concludes with an all-day shooting event at Fire Mountain, Scouting American camp near Big Lake WA. In addition, AKR and IKYF-ANKR events in North America and Japan are open to our members.
