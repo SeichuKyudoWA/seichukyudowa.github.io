@@ -1,16 +1,14 @@
 - year: 2025
   months:
-    - month: September
+    - month: October
       events:
-        - title: "End of Summer Fire Mountain: All Day Shooting"
+        - title: "Kyudo Demonstration for Order of the Arrow Scouts"
           location: "26027 Walker Valley Rd. Mount Vernon, WA, 98274, Fire Mountain Scout Camp"
-          dates: Sunday, September 21st
-          cost: Rental fee and food $40
+          dates: Saturday, October 11th
           other_information:
-            - text: Shooting from 9AM to 6PM. Please arrive early to help set up.
-            - text: We will have lunch, dinner, snacks, and drinks.
-            - text: Shooting is 28 meters. We will also have a 60 meter range.
-            - text: Bring water bottles and sunscreen. Plan on a full day!
+            - text: All members welcome!
+            - text: Start/end times TBD, expecting to take place for most of the day.
+            - text: Bring water, lunch and sunscreen!
 
 - year: 2026
   months:
