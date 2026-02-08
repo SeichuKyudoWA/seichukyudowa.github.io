@@ -3,11 +3,13 @@
     - month: April
       events:
         - title: Annual 4-day Seminar hosted by the Vancouver Kyudo Club
-          location: Chinatown Vancouver BC, Canada
-          dates: Usually the weekend before/after Easter, exact date updated when available.
-          cost: ~$250 USD seminar fee/person. Lodging and food are separate, which we coordinate and share.
+          location: Vancouver Japanese Language School, 487 Alexander St, Vancouver, BC V6A 1C6, Canada
+          dates: April 3rd - April 6th
+          cost: Expected to be ~$240 USD seminar fee/person if attending all 4 days, otherwise ~$75/person per single day. Lodging and food costs are separate, which we coordinate and share.
           other_information:
-            - text: Will feature Kyudo Renmei instructors from South Carolina
+            - text: Seminar fees will be finalized before registration based on the number of interested participants.
+            - text: Will feature Kyudo Renmei instructors from South Carolina.
+            - text: "Tentative schedule: April 3rd, 1:30PM - 5:00PM. April 4th, 5th and 6th 9:00AM - 5:00PM"
 
     - month: June/July
       events:
