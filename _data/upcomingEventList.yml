@@ -4,12 +4,20 @@
       events:
         - title: Annual 4-day Seminar hosted by the Vancouver Kyudo Club
           location: Vancouver, Canada
-          dates: April 3rd - April 6th
+          dates: Friday April 3rd - Monday April 6th
           cost: Around ~$240 USD if attending all 4 days, otherwise ~$75 per day. Lodging and food costs are separate, which we coordinate and share.
           other_information:
             - text: Will feature Kyudo Renmei instructors from South Carolina.
 
-    - month: June/July
+        - title: Camp Fire Mountain All-Day Shooting
+          location: Mount Vernon, WA
+          dates: Saturday April 25th
+          cost: $40-$50 for rental fee & food/drink costs
+          other_information:
+            - text: 9am-6pm duration, we will have lunch, dinner, snacks, and drinks.
+            - text: Shooting is 28 meters. We will also have a 60 meter range.
+
+    - month: June
       events:
         - title: Annual Summer Solstice 100 Shots
           location: Lopez Island, WA
@@ -18,10 +26,19 @@
           other_information:
             - text: Lasts Friday-Sunday. Bring a sleeping bag!
 
+    - month: August
+      events:
+        - title: IKYF North American Seminar + Shinsa (Canada)
+          location: Richmond, BC, Canada
+          dates: Monday August 17th - 19th, Shinsa on Thursday the 20th.
+          cost: Seminar fees ~$640 (+$70 if testing). Food, travel & lodging costs are separate.
+          other_information:
+            - text: International Kyudo event, IKYF members attending from all around the world.
+
     - month: September
       events:
         - title: Annual End-of-Summer All Day Shooting at Camp Fire Mountain
-          location: 26027 Walker Valley Rd. Mount Vernon, WA, 98274, Fire Mountain Scout Camp
+          location: Mount Vernon, WA
           dates: After Labor Day, exact date updated when available.
           cost: $40-$50 for rental fee & food/drink costs
           other_information:
