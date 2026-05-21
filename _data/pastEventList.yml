@@ -1,3 +1,22 @@
+- year: 2026
+  months:
+    - month: April
+      events:
+        - title: Annual 4-day Seminar hosted by the Vancouver Kyudo Club
+          location: Vancouver, Canada
+          dates: Friday April 3rd - Monday April 6th
+          cost: Around ~$240 USD if attending all 4 days, otherwise ~$75 per day. Lodging and food costs are separate, which we coordinate and share.
+          other_information:
+            - text: Will feature Kyudo Renmei instructors from South Carolina.
+
+        - title: Camp Fire Mountain All-Day Shooting
+          location: Mount Vernon, WA
+          dates: Saturday April 25th
+          cost: $40-$50 for rental fee & food/drink costs
+          other_information:
+            - text: 9am-6pm duration, we will have lunch, dinner, snacks, and drinks.
+            - text: Shooting is 28 meters. We will also have a 60 meter range.
+
 - year: 2025
   months:
     - month: August
