@@ -1,5 +1,6 @@
 ---
 permalink: /
+title: Seichu Kyudo Club — Japanese Archery in Bellevue, WA
 ---
 <!-- 
     The capture part and the source-split-last piping is a hack so that 

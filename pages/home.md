@@ -1,5 +1,6 @@
 ---
 permalink: /home
+title: Seichu Kyudo Club — Japanese Archery in Bellevue, WA
 ---
 {% include home/about.md %}
 {% include home/costs.md %}

@@ -1,5 +1,6 @@
 ---
 permalink: /links
+title: Links & Resources — Seichu Kyudo Club
 ---
 
 ## Links

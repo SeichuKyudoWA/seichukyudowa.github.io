@@ -1,5 +1,6 @@
 ---
 permalink: /about
+title: About Us & Training — Seichu Kyudo Club
 ---
 
 {% include about/training.md %}

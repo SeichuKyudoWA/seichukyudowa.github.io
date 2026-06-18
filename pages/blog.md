@@ -1,5 +1,6 @@
 ---
 permalink: /blog
+title: Blog — Seichu Kyudo Club
 ---
 
 ## 2025
