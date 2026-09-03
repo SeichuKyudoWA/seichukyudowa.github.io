@@ -1,5 +1,14 @@
 - year: 2026
   months:
+    - month: August
+      events:
+        - title: IKYF North American Seminar + Shinsa (Canada)
+          location: Richmond, BC, Canada
+          dates: Monday August 17th - 19th, Shinsa on Thursday the 20th.
+          cost: Seminar fees ~$640 (+$70 if testing). Food, travel & lodging costs are separate.
+          other_information:
+            - text: International Kyudo event, IKYF members attending from all around the world.
+
     - month: April
       events:
         - title: Annual 4-day Seminar hosted by the Vancouver Kyudo Club
