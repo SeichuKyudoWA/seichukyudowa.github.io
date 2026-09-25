@@ -1,13 +1,22 @@
-- year: 2026
+- year: 2027
   months:
-    - month: (Recurring) Summer
+    - month: Summer
       events:
         - title: Fire Mountain Monthly All-Day Outdoor Shooting
           location: Mount Vernon, WA
           dates: Always on a Saturday, consult Discord for exact dates.
-          cost: $35 in advance for rental fees and drinks
+          cost: $35 for rental fees and drinks
           other_information:
-            - text: Event lasts from 9am until 6pm.
-            - text: Featuring a Kinteki (28m) taikai (tournament), Enteki (60m) shooting, and Kinteki (28m) free shooting.
+            - text: Event lasts from 8am until 6pm.
+            - text: Featuring a Kinteki (28m), Enteki (60m) taikai (tournament) shooting, and free shooting at both ranges.
             - text: Bring your own lunch and a snack to share. Optional group dinner afterward at local restaurant.
             - text: Regular Sunday practice will still take place on the following day.
+    - month: July
+      events:
+        - title: Overnight at Cornet Bay State Park
+          location: Deception Pass, WA
+          dates: 5th - 7th
+          cost: $160 for two nights and venue rental and 5-6 meals
+          other_information:
+            - text: Event lasts from 9am until 6pm.
+            - text: Featuring a Kinteki (28m) taikai (tournament) and Kinteki (28m) free shooting.
